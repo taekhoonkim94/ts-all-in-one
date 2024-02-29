@@ -1,0 +1,11 @@
+{
+  "name": "ts-all-in-one",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/taekhoonkim94/ts-all-in-one.git",
+  "author": "thkim <taekhoonkim94@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
